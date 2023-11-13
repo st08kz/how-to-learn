@@ -8,6 +8,8 @@
 @import url("../blocks/section-title/section-title.css");
 @import url("../blocks/section-subtitle/section-subtitle.css");
 @import url("../blocks/cards/cards.css");
+@import url("../blocks/video/video.css");
+@import url("../blocks/oakley/oakley.css");
 
 body {
   background-color: #f2f2f2;
